@@ -1,0 +1,37 @@
+[
+    {
+        "SubjectName":"History",
+        "SubjectDescription": "Your Course Description",
+        "imageCover": "history.jpg"
+    },
+    {
+        "SubjectName":"Sanskrit",
+        "SubjectDescription": "Your Course Description",
+        "imageCover": "sanskrit.jpg"
+    },
+    {
+        "SubjectName":"Hindi",
+        "SubjectDescription": "Your Course Description",
+        "imageCover": "hindi.jpg"
+    },
+    {
+        "SubjectName":"Geography",
+        "SubjectDescription": "Your Course Description",
+        "imageCover": "geography.jpg"
+    },
+    {
+        "SubjectName":"Economics",
+        "SubjectDescription": "Your Course Description",
+        "imageCover": "economics.jpg"
+    },
+    {
+        "SubjectName":"Civics",
+        "SubjectDescription": "Your Course Description",
+        "imageCover": "civics.jpg"
+    },
+    {
+        "SubjectName":"Sociology",
+        "SubjectDescription": "Your Course Description",
+        "imageCover": "sociology.jpg"
+    }
+]
